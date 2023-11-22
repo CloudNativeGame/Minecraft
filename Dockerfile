@@ -1,0 +1,1 @@
+FROM registry.cn-beijing.aliyuncs.com/chrisliu95/minecraft-demo:test-4
